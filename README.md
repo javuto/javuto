@@ -1,6 +1,13 @@
 [<img src="https://raw.githubusercontent.com/javuto/javuto/master/nod.gif" alt="👋 Hi there! I'm Javier Marcos" title="👋 Hi there! I'm Javier Marcos"/>](https://javuto.net)
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=javuto&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/javuto/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-beta-nine-92.vercel.app/api?username=javuto&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/javuto/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-beta-nine-92.vercel.app/api/top-langs?username=javuto&langs_count=10&theme=transparent&layout=compact" />
+  </a>
+</div>
 
 <!--
 **javuto/javuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
