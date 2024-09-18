@@ -2,24 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/javuto/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-javuto.vercel.app/api?username=javuto&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats-javuto.vercel.app/api?username=javuto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="javuto's Stats" height="165">
   </a>
   <a href="https://github.com/javuto/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-javuto.vercel.app/api/top-langs?username=javuto&langs_count=10&theme=transparent&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=javuto&theme=tokyonight&hide_border=true" alt="javuto's Streak" height="165">
   </a>
 </div>
-
-<!--
-**javuto/javuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
